@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\C#test\\Likelion\\Likelion\\likelion2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C23C2C1B-7204-4449-86D7-66C471DC2B22}|minitest\\minitest.csproj|c:\\c#test\\likelion\\likelion\\likelion2\\minitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C2C1B-7204-4449-86D7-66C471DC2B22}|minitest\\minitest.csproj|solutionrelative:minitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D95A8C-7D07-4666-BEF4-C53090303AF0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\c#test\\likelion\\likelion\\likelion2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D95A8C-7D07-4666-BEF4-C53090303AF0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5C97911-4C45-4424-B0C8-CB72172E8FF4}|likelion2\\likelion2.csproj|c:\\c#test\\likelion\\likelion\\likelion2\\likelion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5C97911-4C45-4424-B0C8-CB72172E8FF4}|likelion2\\likelion2.csproj|solutionrelative:likelion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,24 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\likelion2\\likelion2\\Program.cs",
-              "RelativeDocumentMoniker": "likelion2\\Program.cs",
-              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\likelion2\\likelion2\\Program.cs*",
-              "RelativeToolTip": "likelion2\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\likelion2\\minitest\\Program.cs",
+              "RelativeDocumentMoniker": "minitest\\Program.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\likelion2\\minitest\\Program.cs",
+              "RelativeToolTip": "minitest\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T01:15:48.074Z",
+              "WhenOpened": "2025-02-21T01:39:33.077Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\likelion2\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\likelion2\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:29:53.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\likelion2\\likelion2\\Program.cs",
+              "RelativeDocumentMoniker": "likelion2\\Program.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\likelion2\\likelion2\\Program.cs",
+              "RelativeToolTip": "likelion2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:15:48.074Z",
+              "EditorCaption": ""
             }
           ]
         }

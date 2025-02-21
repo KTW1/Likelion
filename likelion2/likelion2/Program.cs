@@ -9,7 +9,7 @@ namespace likelion2
     class Program
     {
         static void Main(string[] args)
-        {
+        1
             //변수선언
             int age; //정수형 변수를 선언
             age = 10; //age라는 int변수에 25출력값 저장

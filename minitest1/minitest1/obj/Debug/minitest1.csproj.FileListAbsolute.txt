@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\minitest1\minitest1\bin\Debug\minitest1.exe.config
+C:\C#test\Likelion\Likelion\minitest1\minitest1\bin\Debug\minitest1.exe
+C:\C#test\Likelion\Likelion\minitest1\minitest1\bin\Debug\minitest1.pdb
+C:\C#test\Likelion\Likelion\minitest1\minitest1\obj\Debug\minitest1.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\minitest1\minitest1\obj\Debug\minitest1.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\minitest1\minitest1\obj\Debug\minitest1.exe
+C:\C#test\Likelion\Likelion\minitest1\minitest1\obj\Debug\minitest1.pdb
