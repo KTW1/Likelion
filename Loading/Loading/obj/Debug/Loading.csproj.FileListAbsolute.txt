@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\Loading\Loading\bin\Debug\Loading.exe.config
+C:\C#test\Likelion\Likelion\Loading\Loading\bin\Debug\Loading.exe
+C:\C#test\Likelion\Likelion\Loading\Loading\bin\Debug\Loading.pdb
+C:\C#test\Likelion\Likelion\Loading\Loading\obj\Debug\Loading.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Loading\Loading\obj\Debug\Loading.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\Loading\Loading\obj\Debug\Loading.exe
+C:\C#test\Likelion\Likelion\Loading\Loading\obj\Debug\Loading.pdb
