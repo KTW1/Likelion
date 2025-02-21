@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\likelion1\likelion1\obj\Debug\likelion1.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\likelion1\likelion1\obj\Debug\likelion1.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\likelion1\likelion1\bin\Debug\likelion1.exe.config
+C:\C#test\Likelion\Likelion\likelion1\likelion1\bin\Debug\likelion1.exe
+C:\C#test\Likelion\Likelion\likelion1\likelion1\bin\Debug\likelion1.pdb
+C:\C#test\Likelion\Likelion\likelion1\likelion1\obj\Debug\likelion1.exe
+C:\C#test\Likelion\Likelion\likelion1\likelion1\obj\Debug\likelion1.pdb
