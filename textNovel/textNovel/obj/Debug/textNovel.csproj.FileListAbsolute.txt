@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\textNovel\textNovel\obj\Debug\textNovel.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\textNovel\textNovel\obj\Debug\textNovel.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\textNovel\textNovel\bin\Debug\textNovel.exe.config
+C:\C#test\Likelion\Likelion\textNovel\textNovel\bin\Debug\textNovel.exe
+C:\C#test\Likelion\Likelion\textNovel\textNovel\bin\Debug\textNovel.pdb
+C:\C#test\Likelion\Likelion\textNovel\textNovel\obj\Debug\textNovel.exe
+C:\C#test\Likelion\Likelion\textNovel\textNovel\obj\Debug\textNovel.pdb

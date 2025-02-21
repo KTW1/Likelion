@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#test\\Likelion\\Likelion\\gameStory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF924D8-9A6D-47EE-BD32-F77B77F4F69B}|gameStory\\gameStory.csproj|c:\\c#test\\likelion\\likelion\\gamestory\\gamestory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF924D8-9A6D-47EE-BD32-F77B77F4F69B}|gameStory\\gameStory.csproj|solutionrelative:gamestory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\gameStory\\gameStory\\Program.cs",
+              "RelativeDocumentMoniker": "gameStory\\Program.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\gameStory\\gameStory\\Program.cs",
+              "RelativeToolTip": "gameStory\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:06:01.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

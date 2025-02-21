@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\gameStory\gameStory\bin\Debug\gameStory.exe.config
+C:\C#test\Likelion\Likelion\gameStory\gameStory\bin\Debug\gameStory.exe
+C:\C#test\Likelion\Likelion\gameStory\gameStory\bin\Debug\gameStory.pdb
+C:\C#test\Likelion\Likelion\gameStory\gameStory\obj\Debug\gameStory.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\gameStory\gameStory\obj\Debug\gameStory.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\gameStory\gameStory\obj\Debug\gameStory.exe
+C:\C#test\Likelion\Likelion\gameStory\gameStory\obj\Debug\gameStory.pdb

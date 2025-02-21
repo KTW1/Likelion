@@ -1,0 +1,2 @@
+C:\C#test\Likelion\Likelion\Novel_Text\Novel_Text\obj\Debug\Novel_Text.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Novel_Text\Novel_Text\obj\Debug\Novel_Text.csproj.CoreCompileInputs.cache
