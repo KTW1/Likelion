@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\week2_tue2\Console_Coordinate\bin\Debug\Console_Coordinate.exe.config
+C:\C#test\Likelion\Likelion\week2_tue2\Console_Coordinate\bin\Debug\Console_Coordinate.exe
+C:\C#test\Likelion\Likelion\week2_tue2\Console_Coordinate\bin\Debug\Console_Coordinate.pdb
+C:\C#test\Likelion\Likelion\week2_tue2\Console_Coordinate\obj\Debug\Console_Coordinate.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\week2_tue2\Console_Coordinate\obj\Debug\Console_Coordinate.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\week2_tue2\Console_Coordinate\obj\Debug\Console_Coordinate.exe
+C:\C#test\Likelion\Likelion\week2_tue2\Console_Coordinate\obj\Debug\Console_Coordinate.pdb

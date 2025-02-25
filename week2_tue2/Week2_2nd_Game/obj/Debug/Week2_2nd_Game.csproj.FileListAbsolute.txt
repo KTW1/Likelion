@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\week2_tue2\Week2_2nd_Game\obj\Debug\Week2_2nd_Game.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\week2_tue2\Week2_2nd_Game\obj\Debug\Week2_2nd_Game.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\week2_tue2\Week2_2nd_Game\bin\Debug\Week2_2nd_Game.exe.config
+C:\C#test\Likelion\Likelion\week2_tue2\Week2_2nd_Game\bin\Debug\Week2_2nd_Game.exe
+C:\C#test\Likelion\Likelion\week2_tue2\Week2_2nd_Game\bin\Debug\Week2_2nd_Game.pdb
+C:\C#test\Likelion\Likelion\week2_tue2\Week2_2nd_Game\obj\Debug\Week2_2nd_Game.exe
+C:\C#test\Likelion\Likelion\week2_tue2\Week2_2nd_Game\obj\Debug\Week2_2nd_Game.pdb

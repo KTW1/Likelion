@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#test\\Likelion\\Likelion\\week2_tue2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D0411A-9D72-4A5B-9E91-12BED357553D}|Week2_2nd_Game\\Week2_2nd_Game.csproj|c:\\c#test\\likelion\\likelion\\week2_tue2\\week2_2nd_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D0411A-9D72-4A5B-9E91-12BED357553D}|Week2_2nd_Game\\Week2_2nd_Game.csproj|solutionrelative:week2_2nd_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA476CE4-FA43-49E0-9867-928F349F527F}|Console_Coordinate\\Console_Coordinate.csproj|c:\\c#test\\likelion\\likelion\\week2_tue2\\console_coordinate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA476CE4-FA43-49E0-9867-928F349F527F}|Console_Coordinate\\Console_Coordinate.csproj|solutionrelative:console_coordinate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62A5EAE-A823-4830-B975-E1DBBD14D9E4}|week2_project\\week2_project.csproj|c:\\c#test\\likelion\\likelion\\week2_tue2\\week2_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62A5EAE-A823-4830-B975-E1DBBD14D9E4}|week2_project\\week2_project.csproj|solutionrelative:week2_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\week2_tue2\\Week2_2nd_Game\\Program.cs",
+              "RelativeDocumentMoniker": "Week2_2nd_Game\\Program.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\week2_tue2\\Week2_2nd_Game\\Program.cs",
+              "RelativeToolTip": "Week2_2nd_Game\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:52:58.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\week2_tue2\\Console_Coordinate\\Program.cs",
+              "RelativeDocumentMoniker": "Console_Coordinate\\Program.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\week2_tue2\\Console_Coordinate\\Program.cs",
+              "RelativeToolTip": "Console_Coordinate\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:11:06.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\week2_tue2\\week2_project\\Program.cs",
+              "RelativeDocumentMoniker": "week2_project\\Program.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\week2_tue2\\week2_project\\Program.cs",
+              "RelativeToolTip": "week2_project\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:05:23.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
