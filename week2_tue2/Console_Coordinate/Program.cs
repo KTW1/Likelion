@@ -24,21 +24,59 @@ namespace Console_Coordinate
                                            //Console.WriteLine("Title");
                                            //Thread.Sleep(3000);
 
-            //Console.Clear();
-            //Console.SetCursorPosition(0, 0);
-            //Console.WriteLine("┎──────────────────────────────────────────────┐");
-            //Console.SetCursorPosition(0, 1);
-            //Console.WriteLine("┃                                                                                  │ ");
-            //Console.SetCursorPosition(0, 2);
-            //Console.WriteLine("┃                                                                                  │ ");
-            //Console.SetCursorPosition(0, 3);
-            //Console.WriteLine("┃                                                                                  │ ");
-            //Console.SetCursorPosition(0, 4);
-            //Console.WriteLine("┃                                                                                  │ ");
-            //Console.SetCursorPosition(0, 5);
-            //Console.WriteLine("└────────────────────────────────────────────━─┘");
-            //Thread.Sleep(3000);
-            //Console.Clear();
+            Console.Clear();
+            Console.SetCursorPosition(0, 0);
+            Console.Write("┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓");
+            Console.SetCursorPosition(0, 1);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 2);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 3);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 4);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 5);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 6);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 7);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 8);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 9);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 10);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 11);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 12);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 13);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 14);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 15);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 16);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 17);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 18);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 19);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 20);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 21);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 22);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 23);
+            Console.Write("┃                                                                              ┃");
+            Console.SetCursorPosition(0, 24);
+            Console.Write("┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛");
+            Console.ReadLine();
+            Console.Clear();
 
             //for (int x = 0; x < 30; x++)
             //{
@@ -61,6 +99,6 @@ namespace Console_Coordinate
             //    Console.Write("(ㅇㅅ  ㅇ)");
             //    Thread.Sleep(100);
         }
-        }
     }
 }
+

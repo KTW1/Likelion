@@ -3,7 +3,7 @@
     "Name": "새 프로필",
     "Projects": [
       {
-        "Path": "Week2_2nd_Game\\Week2_2nd_Game.csproj",
+        "Path": "Console_Coordinate\\Console_Coordinate.csproj",
         "Action": "StartWithoutDebugging"
       }
     ]
