@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "새 프로필",
+    "Projects": [
+      {
+        "Path": "wed2\\wed2.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

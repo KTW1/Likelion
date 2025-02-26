@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\Week2_wed\Function test\bin\Debug\Function test.exe.config
+C:\C#test\Likelion\Likelion\Week2_wed\Function test\bin\Debug\Function test.exe
+C:\C#test\Likelion\Likelion\Week2_wed\Function test\bin\Debug\Function test.pdb
+C:\C#test\Likelion\Likelion\Week2_wed\Function test\obj\Debug\Function test.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Week2_wed\Function test\obj\Debug\Function test.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\Week2_wed\Function test\obj\Debug\Function test.exe
+C:\C#test\Likelion\Likelion\Week2_wed\Function test\obj\Debug\Function test.pdb

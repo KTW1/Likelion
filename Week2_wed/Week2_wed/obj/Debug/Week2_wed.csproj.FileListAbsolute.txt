@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\Week2_wed\Week2_wed\obj\Debug\Week2_wed.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Week2_wed\Week2_wed\obj\Debug\Week2_wed.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\Week2_wed\Week2_wed\bin\Debug\Week2_wed.exe.config
+C:\C#test\Likelion\Likelion\Week2_wed\Week2_wed\bin\Debug\Week2_wed.exe
+C:\C#test\Likelion\Likelion\Week2_wed\Week2_wed\bin\Debug\Week2_wed.pdb
+C:\C#test\Likelion\Likelion\Week2_wed\Week2_wed\obj\Debug\Week2_wed.exe
+C:\C#test\Likelion\Likelion\Week2_wed\Week2_wed\obj\Debug\Week2_wed.pdb
