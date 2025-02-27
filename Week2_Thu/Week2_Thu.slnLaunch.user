@@ -3,7 +3,7 @@
     "Name": "새 프로필",
     "Projects": [
       {
-        "Path": "Inventory\\Inventory.csproj",
+        "Path": "shooting\\shooting.csproj",
         "Action": "StartWithoutDebugging"
       }
     ]

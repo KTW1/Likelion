@@ -12,7 +12,12 @@ namespace shooting
 {
     class Program
     {
-        static void Main(string[] args)
+        public void Index()
+        {
+            int pX = 0;
+            int pY = 12;
+        }
+        public void player()
         {
             string[] player = new string[]
             {
@@ -20,48 +25,15 @@ namespace shooting
                 ">>>",
                 "->",
             };
-
-            int pX = 0;
-            int pY = 12;
+            Index();
             ConsoleKeyInfo KeyInfo;
             Console.CursorVisible = false;
+        }
+        public void Main(string[] args)
+        {
 
-            //타임루프
-            Stopwatch stopwatch = new Stopwatch();
-            stopwatch.Start();
-
-            long prevSecond = stopwatch.ElapsedMilliseconds;
-
-            while (true)
-            {
-                Console.Clear();
-                long currentSecond = stopwatch.ElapsedMilliseconds;
-                if(currentSecond - prevSecond >= 1000)
-                {
-                    Console.WriteLine("1s loop");
-                    prevSecond = currentSecond;
-                }
-
-                KeyInfo = Console.ReadKey(true);
-                switch (KeyInfo.Key)
-                {
-                    case ConsoleKey.UpArrow: if (pY > 0) pY--; break;
-                    case ConsoleKey.DownArrow: if (pY < Console.WindowHeight - 1) pY++; break;
-                    case ConsoleKey.LeftArrow: if (pX > 0) pX--; break;
-                    case ConsoleKey.RightArrow: if (pX < Console.WindowWidth - 1) pX++; break;
-                    case ConsoleKey.Spacebar: Console.Write("Missile"); break;
-                    case ConsoleKey.Escape: return;
-                }
-
-                Console.Clear();
-                for (int y = 0; y < player.Length; y++)
-                {
-                    Console.SetCursorPosition(pX, pY + y);
-                    Console.WriteLine(player[y]);
-                }
-                Console.Clear();
-            }
-
+            player();
+            
 
             //int x = 10, y = 10;
             //ConsoleKeyInfo KeyInfo;
@@ -87,4 +59,5 @@ namespace shooting
 
     }
 }
+
 
