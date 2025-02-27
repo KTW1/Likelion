@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\Week2_Thu\Structure\bin\Debug\Structure.exe.config
+C:\C#test\Likelion\Likelion\Week2_Thu\Structure\bin\Debug\Structure.exe
+C:\C#test\Likelion\Likelion\Week2_Thu\Structure\bin\Debug\Structure.pdb
+C:\C#test\Likelion\Likelion\Week2_Thu\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Week2_Thu\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\Week2_Thu\Structure\obj\Debug\Structure.exe
+C:\C#test\Likelion\Likelion\Week2_Thu\Structure\obj\Debug\Structure.pdb

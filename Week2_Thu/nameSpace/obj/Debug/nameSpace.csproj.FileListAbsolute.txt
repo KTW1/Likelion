@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\Week2_Thu\nameSpace\obj\Debug\nameSpace.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Week2_Thu\nameSpace\obj\Debug\nameSpace.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\Week2_Thu\nameSpace\bin\Debug\nameSpace.exe.config
+C:\C#test\Likelion\Likelion\Week2_Thu\nameSpace\bin\Debug\nameSpace.exe
+C:\C#test\Likelion\Likelion\Week2_Thu\nameSpace\bin\Debug\nameSpace.pdb
+C:\C#test\Likelion\Likelion\Week2_Thu\nameSpace\obj\Debug\nameSpace.exe
+C:\C#test\Likelion\Likelion\Week2_Thu\nameSpace\obj\Debug\nameSpace.pdb

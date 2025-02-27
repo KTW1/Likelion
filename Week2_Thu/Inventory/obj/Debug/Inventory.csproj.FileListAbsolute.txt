@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\Week2_Thu\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Week2_Thu\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\Week2_Thu\Inventory\bin\Debug\Inventory.exe.config
+C:\C#test\Likelion\Likelion\Week2_Thu\Inventory\bin\Debug\Inventory.exe
+C:\C#test\Likelion\Likelion\Week2_Thu\Inventory\bin\Debug\Inventory.pdb
+C:\C#test\Likelion\Likelion\Week2_Thu\Inventory\obj\Debug\Inventory.exe
+C:\C#test\Likelion\Likelion\Week2_Thu\Inventory\obj\Debug\Inventory.pdb
