@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\GameOfMine\GameOfMine\bin\Debug\GameOfMine.exe.config
+C:\C#test\Likelion\Likelion\GameOfMine\GameOfMine\bin\Debug\GameOfMine.exe
+C:\C#test\Likelion\Likelion\GameOfMine\GameOfMine\bin\Debug\GameOfMine.pdb
+C:\C#test\Likelion\Likelion\GameOfMine\GameOfMine\obj\Debug\GameOfMine.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\GameOfMine\GameOfMine\obj\Debug\GameOfMine.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\GameOfMine\GameOfMine\obj\Debug\GameOfMine.exe
+C:\C#test\Likelion\Likelion\GameOfMine\GameOfMine\obj\Debug\GameOfMine.pdb

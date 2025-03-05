@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\Week2_Fri\shootingcopy\bin\Debug\shootingcopy.exe.config
+C:\C#test\Likelion\Likelion\Week2_Fri\shootingcopy\bin\Debug\shootingcopy.exe
+C:\C#test\Likelion\Likelion\Week2_Fri\shootingcopy\bin\Debug\shootingcopy.pdb
+C:\C#test\Likelion\Likelion\Week2_Fri\shootingcopy\obj\Debug\shootingcopy.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Week2_Fri\shootingcopy\obj\Debug\shootingcopy.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\Week2_Fri\shootingcopy\obj\Debug\shootingcopy.exe
+C:\C#test\Likelion\Likelion\Week2_Fri\shootingcopy\obj\Debug\shootingcopy.pdb

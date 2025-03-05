@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\Week2_Fri\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\C#test\Likelion\Likelion\Week2_Fri\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\C#test\Likelion\Likelion\Week2_Fri\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\C#test\Likelion\Likelion\Week2_Fri\ConsoleApp1\obj\Debug\getset.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Week2_Fri\ConsoleApp1\obj\Debug\getset.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\Week2_Fri\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\C#test\Likelion\Likelion\Week2_Fri\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

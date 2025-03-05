@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\Week2_Fri\Week2_Fri\bin\Debug\Week2_Fri.exe.config
+C:\C#test\Likelion\Likelion\Week2_Fri\Week2_Fri\bin\Debug\Week2_Fri.exe
+C:\C#test\Likelion\Likelion\Week2_Fri\Week2_Fri\bin\Debug\Week2_Fri.pdb
+C:\C#test\Likelion\Likelion\Week2_Fri\Week2_Fri\obj\Debug\starCraft.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Week2_Fri\Week2_Fri\obj\Debug\starCraft.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\Week2_Fri\Week2_Fri\obj\Debug\Week2_Fri.exe
+C:\C#test\Likelion\Likelion\Week2_Fri\Week2_Fri\obj\Debug\Week2_Fri.pdb

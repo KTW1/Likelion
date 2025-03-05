@@ -1,0 +1,7 @@
+C:\C#test\Likelion\Likelion\Week2_Fri\ShootingGame\bin\Debug\ShootingGame.exe.config
+C:\C#test\Likelion\Likelion\Week2_Fri\ShootingGame\bin\Debug\ShootingGame.exe
+C:\C#test\Likelion\Likelion\Week2_Fri\ShootingGame\bin\Debug\ShootingGame.pdb
+C:\C#test\Likelion\Likelion\Week2_Fri\ShootingGame\obj\Debug\ShootingGame.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Week2_Fri\ShootingGame\obj\Debug\ShootingGame.csproj.CoreCompileInputs.cache
+C:\C#test\Likelion\Likelion\Week2_Fri\ShootingGame\obj\Debug\ShootingGame.exe
+C:\C#test\Likelion\Likelion\Week2_Fri\ShootingGame\obj\Debug\ShootingGame.pdb
