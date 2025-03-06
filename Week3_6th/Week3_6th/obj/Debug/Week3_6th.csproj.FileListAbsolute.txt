@@ -1,0 +1,2 @@
+C:\C#test\Likelion\Likelion\Week3_6th\Week3_6th\obj\Debug\Week3_6th.csproj.AssemblyReference.cache
+C:\C#test\Likelion\Likelion\Week3_6th\Week3_6th\obj\Debug\Week3_6th.csproj.CoreCompileInputs.cache

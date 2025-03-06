@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC63E2-DC8B-4E1A-BF98-8156144B17D2}|TextRPG\\TextRPG.csproj|C:\\C#test\\Likelion\\Likelion\\Week3_6th\\textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCC63E2-DC8B-4E1A-BF98-8156144B17D2}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC63E2-DC8B-4E1A-BF98-8156144B17D2}|TextRPG\\TextRPG.csproj|C:\\C#test\\Likelion\\Likelion\\Week3_6th\\textrpg\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCC63E2-DC8B-4E1A-BF98-8156144B17D2}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC63E2-DC8B-4E1A-BF98-8156144B17D2}|TextRPG\\TextRPG.csproj|c:\\c#test\\likelion\\likelion\\week3_6th\\textrpg\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCC63E2-DC8B-4E1A-BF98-8156144B17D2}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC63E2-DC8B-4E1A-BF98-8156144B17D2}|TextRPG\\TextRPG.csproj|c:\\c#test\\likelion\\likelion\\week3_6th\\textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCC63E2-DC8B-4E1A-BF98-8156144B17D2}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC63E2-DC8B-4E1A-BF98-8156144B17D2}|TextRPG\\TextRPG.csproj|C:\\C#test\\Likelion\\Likelion\\Week3_6th\\textrpg\\vally.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCC63E2-DC8B-4E1A-BF98-8156144B17D2}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\vally.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBBCEE3-D69B-42B2-8892-25D27F31F69A}|Week3_6th\\Week3_6th.csproj|C:\\C#test\\Likelion\\Likelion\\Week3_6th\\week3_6th\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBBCEE3-D69B-42B2-8892-25D27F31F69A}|Week3_6th\\Week3_6th.csproj|solutionrelative:week3_6th\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBBCEE3-D69B-42B2-8892-25D27F31F69A}|Week3_6th\\Week3_6th.csproj|C:\\C#test\\Likelion\\Likelion\\Week3_6th\\week3_6th\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBBCEE3-D69B-42B2-8892-25D27F31F69A}|Week3_6th\\Week3_6th.csproj|solutionrelative:week3_6th\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\TextRPG\\Player.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Player.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\TextRPG\\Player.cs",
+              "RelativeToolTip": "TextRPG\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:16:03.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Opponent.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\TextRPG\\Opponent.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Opponent.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\TextRPG\\Opponent.cs",
+              "RelativeToolTip": "TextRPG\\Opponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:10:05.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\TextRPG\\Info.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Info.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\TextRPG\\Info.cs",
+              "RelativeToolTip": "TextRPG\\Info.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:11:03.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\TextRPG\\Main.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Main.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\TextRPG\\Main.cs",
+              "RelativeToolTip": "TextRPG\\Main.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:32:43.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vally.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\TextRPG\\Vally.cs",
+              "RelativeDocumentMoniker": "TextRPG\\Vally.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\TextRPG\\Vally.cs",
+              "RelativeToolTip": "TextRPG\\Vally.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:03:31.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\Week3_6th\\Program.cs",
+              "RelativeDocumentMoniker": "Week3_6th\\Program.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\Week3_6th\\Program.cs",
+              "RelativeToolTip": "Week3_6th\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA1wHUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T00:14:42.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\Week3_6th\\Mage.cs",
+              "RelativeDocumentMoniker": "Week3_6th\\Mage.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\Week3_6th\\Week3_6th\\Mage.cs",
+              "RelativeToolTip": "Week3_6th\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:37:38.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
