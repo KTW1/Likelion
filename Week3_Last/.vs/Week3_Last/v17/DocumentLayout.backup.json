@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#test\\Likelion\\Likelion\\Week3_Last\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8A78E8-4254-4442-BA7C-17A600664852}|Week3_Last\\Week3_Last.csproj|c:\\c#test\\likelion\\likelion\\week3_last\\week3_last\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8A78E8-4254-4442-BA7C-17A600664852}|Week3_Last\\Week3_Last.csproj|solutionrelative:week3_last\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#test\\Likelion\\Likelion\\Week3_Last\\Week3_Last\\Program.cs",
+              "RelativeDocumentMoniker": "Week3_Last\\Program.cs",
+              "ToolTip": "C:\\C#test\\Likelion\\Likelion\\Week3_Last\\Week3_Last\\Program.cs*",
+              "RelativeToolTip": "Week3_Last\\Program.cs*",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwFkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:05:50.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
